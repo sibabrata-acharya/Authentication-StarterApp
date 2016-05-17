@@ -1,6 +1,5 @@
 ---
 applications:
-- name: Water_Bottle_ten
-command: node app.js
+- name: suryakalaApp2
 instances: 1
 random-route: true
