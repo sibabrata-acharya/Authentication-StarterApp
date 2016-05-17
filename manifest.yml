@@ -1,5 +1,5 @@
 ---
 applications:
-- name: suryakalaApp2
+- name: suryakalaApp22
 instances: 1
 random-route: true
