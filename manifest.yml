@@ -1,5 +1,5 @@
 ---
 applications:
-- name: authapp15
+- name: OrderApp
 instances: 1
 random-route: true
