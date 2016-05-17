@@ -1,6 +1,5 @@
 ---
 applications:
-- name: authapp12
-command: node app.js
+- name: authapp15
 instances: 1
 random-route: true
