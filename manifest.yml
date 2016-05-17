@@ -1,5 +1,6 @@
 ---
 applications:
-- name: BillingApplications
+- name: Water_Bottle_ten
+command: node app.js
 instances: 1
 random-route: true
