@@ -1,6 +1,6 @@
 ---
 applications:
-- name: Water_Bottle_tweleve
+- name: authapp
 command: node app.js
 instances: 1
 random-route: true
