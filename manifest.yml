@@ -1,5 +1,5 @@
 ---
 applications:
-- name: MyRetailApp
+- name: MyRetailApplication
 instances: 1
 random-route: true
